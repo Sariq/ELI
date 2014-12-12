@@ -128,6 +128,8 @@ public class Service : IService
     {
         Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
         Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
+        Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
+        Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
          Book book = new Book();
         book.Title = "myTitle";
         book.ISBN = "123456789s789777";
