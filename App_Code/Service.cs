@@ -126,9 +126,7 @@ public class Service : IService
     //}
     public valObj GetSingleTask(string id)
     {
-        Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
-        Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
-        Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
+  
         Debug.WriteLine("vaaaaXXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaXXXn");
          Book book = new Book();
         book.Title = "myTitle";
